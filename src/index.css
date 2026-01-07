@@ -49,7 +49,7 @@ Global Styles
   padding: 0;
   box-sizing: border-box;
 }
-html {
+html, body, #root {
   scroll-behavior: smooth;
 }
 body {
